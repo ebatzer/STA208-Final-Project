@@ -1,5 +1,6 @@
 # STA208-Final-Project
-__Author:__ Evan Batzer
+__Author:__ Evan Batzer 
+
 __Date:__ 6/7/2020
 
 ## Project Overview
