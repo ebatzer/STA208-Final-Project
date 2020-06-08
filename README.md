@@ -13,7 +13,7 @@ _images:_ Image files used in notebooks and presentations
 
 _code:_ .py files that contain scripts to extract and pre-process remote datasets available from Fishbase and other online sources. When run, will generate files in the `/data/` directory for use in analysis
 
-_presentation:_ Jupyter notebook and associated files used to generate React.js slides for in-class presentation on 6/2/2020
+_presentation:_ Jupyter notebook and associated files used to generate reveal.js slides for in-class presentation on 6/2/2020
 
 _data:_ Datasets used in analysis, containing both raw datafiles and intermediate data products during data processing and feature engineering
 
