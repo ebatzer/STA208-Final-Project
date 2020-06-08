@@ -6,7 +6,7 @@ __Date:__ 6/7/2020
 ## Project Overview
 As biodiversity loss continues to accelerate in the 21st century, modern approaches to conservation policy emphasize the protection of species which are most likely to go extinct. Global databases, such as the IUCN Red List, are used to set prioritize efforts and funding for species conservation. However, evaluation of a species' conservation status on the IUCN Red List is a time-intensive process that requires input from a team of experts.
 
-In this project, I use existing data on species characteristics from a global database, Fishbase, to classify species based on their IUCN categorization. In doing so, I aim to establish how well IUCN categories can be predicted by the ecological characteristics of fish species without detailed knowledge of their current and projected population trends.
+In this project, I use a global fish biodiversity database, Fishbase, to build classifiers that predict IUCN categorization. In doing so, I aim to establish how well IUCN categories can be predicted by the ecological characteristics of fish species without detailed knowledge of their current and projected population trends.
 
 ## Contents and Organization
 _images:_ Image files used in notebooks and presentations
